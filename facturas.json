@@ -1,0 +1,22 @@
+[
+    {
+        "cliente": "123",
+        "productos": [
+            {
+                "nombre": "papaolq",
+                "precio": 123.0
+            }
+        ],
+        "total": 123.0
+    },
+    {
+        "cliente": "123",
+        "productos": [
+            {
+                "nombre": "Mataraton",
+                "precio": 120.0
+            }
+        ],
+        "total": 120.0
+    }
+]

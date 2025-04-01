@@ -1,0 +1,14 @@
+{
+    "12345": {
+        "nombre": "jaime pe\u00f1a",
+        "cedula": "12345"
+    },
+    "123": {
+        "nombre": "Juan z",
+        "cedula": "123"
+    },
+    "12904": {
+        "nombre": "Luis",
+        "cedula": "12904"
+    }
+}
