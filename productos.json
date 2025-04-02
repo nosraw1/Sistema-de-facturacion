@@ -1,10 +1,55 @@
 [
     {
-        "nombre": "papaolq",
-        "precio": 123.0
+        "nombre": "Glifosato",
+        "precio": 12000.0,
+        "registro_ica": "911441",
+        "frecuencia_aplicacion": 12,
+        "periodo_carencia": 6,
+        "tipo": "Control Plagas"
     },
     {
-        "nombre": "Mataraton",
-        "precio": 120.0
+        "nombre": "Glifosato",
+        "precio": 12000.0,
+        "registro_ica": "911441",
+        "frecuencia_aplicacion": 12,
+        "periodo_carencia": 6,
+        "tipo": "Control Plagas"
+    },
+    {
+        "nombre": "Glifosato",
+        "precio": 12000.0,
+        "registro_ica": "911441",
+        "frecuencia_aplicacion": 12,
+        "periodo_carencia": 6,
+        "tipo": "Control Plagas"
+    },
+    {
+        "nombre": "soloket",
+        "precio": 28000.0,
+        "dosis": 50,
+        "tipo_animal": "bovino",
+        "tipo": "Antibiotico"
+    },
+    {
+        "nombre": "soloket",
+        "precio": 28000.0,
+        "dosis": 50,
+        "tipo_animal": "bovino",
+        "tipo": "Antibiotico"
+    },
+    {
+        "nombre": "soloket",
+        "precio": 28000.0,
+        "dosis": 50,
+        "tipo_animal": "bovino",
+        "tipo": "Antibiotico"
+    },
+    {
+        "nombre": "Calmandira",
+        "precio": 18000.0,
+        "registro_ica": "911231",
+        "frecuencia_aplicacion": 15,
+        "fecha_ultima_aplicacion": "6",
+        "tipo": "Fertilizante"
     }
 ]
