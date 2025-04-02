@@ -1,22 +1,73 @@
 [
     {
-        "cliente": "123",
+        "cliente": "1894",
         "productos": [
             {
-                "nombre": "papaolq",
-                "precio": 123.0
+                "nombre": "Glifosato",
+                "precio": 12000.0,
+                "registro_ica": "911441",
+                "frecuencia_aplicacion": 12,
+                "periodo_carencia": 6,
+                "tipo": "Control Plagas"
+            },
+            {
+                "nombre": "Glifosato",
+                "precio": 12000.0,
+                "registro_ica": "911441",
+                "frecuencia_aplicacion": 12,
+                "periodo_carencia": 6,
+                "tipo": "Control Plagas"
+            },
+            {
+                "nombre": "Glifosato",
+                "precio": 12000.0,
+                "registro_ica": "911441",
+                "frecuencia_aplicacion": 12,
+                "periodo_carencia": 6,
+                "tipo": "Control Plagas"
             }
         ],
-        "total": 123.0
+        "total": 36000.0
     },
     {
-        "cliente": "123",
+        "cliente": "1234",
         "productos": [
             {
-                "nombre": "Mataraton",
-                "precio": 120.0
+                "nombre": "soloket",
+                "precio": 28000.0,
+                "dosis": 50,
+                "tipo_animal": "bovino",
+                "tipo": "Antibiotico"
+            },
+            {
+                "nombre": "soloket",
+                "precio": 28000.0,
+                "dosis": 50,
+                "tipo_animal": "bovino",
+                "tipo": "Antibiotico"
+            },
+            {
+                "nombre": "soloket",
+                "precio": 28000.0,
+                "dosis": 50,
+                "tipo_animal": "bovino",
+                "tipo": "Antibiotico"
             }
         ],
-        "total": 120.0
+        "total": 84000.0
+    },
+    {
+        "cliente": "1234",
+        "productos": [
+            {
+                "nombre": "Calmandira",
+                "precio": 18000.0,
+                "registro_ica": "911231",
+                "frecuencia_aplicacion": 15,
+                "fecha_ultima_aplicacion": "6",
+                "tipo": "Fertilizante"
+            }
+        ],
+        "total": 18000.0
     }
 ]
