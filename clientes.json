@@ -1,14 +1,22 @@
 {
-    "12345": {
-        "nombre": "jaime pe\u00f1a",
-        "cedula": "12345"
+    "1234567": {
+        "nombre": "Jose Mario",
+        "cedula": "1234567"
     },
-    "123": {
-        "nombre": "Juan z",
-        "cedula": "123"
+    "110944": {
+        "nombre": "Jesus E",
+        "cedula": "110944"
     },
-    "12904": {
-        "nombre": "Luis",
-        "cedula": "12904"
+    "1234": {
+        "nombre": "Juan Z",
+        "cedula": "1234"
+    },
+    "1894": {
+        "nombre": "Pepe",
+        "cedula": "1894"
+    },
+    "1193": {
+        "nombre": "Miguel Perez",
+        "cedula": "1193"
     }
 }
